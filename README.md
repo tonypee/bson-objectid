@@ -8,6 +8,8 @@ modules.
 The goal is to be 100% compatable with all [bson](https://github.com/mongodb/js-bson)'s
 public API implementation (found here: https://github.com/mongodb/js-bson/blob/master/lib/objectid.js).
 
+[Online ObjectId() Generator]:(https://codesandbox.io/s/elated-lamarr-dyoij) 
+
 ## Install
     $ npm install bson-objectid
 
